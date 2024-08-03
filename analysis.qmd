@@ -37,3 +37,9 @@ The `echo: false` option disables the printing of code (only output is displayed
 -   Cycling
 -   Basketball
 -   Track and Field
+
+```{r}
+1 + 1
+2 + 2
+3 + 3
+```
